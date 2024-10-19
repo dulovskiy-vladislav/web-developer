@@ -1,0 +1,5 @@
+.oakley{
+  background-color: #f2f2f2;
+  padding-top: 60px;
+  /*border: 1px solid #f2f2f2;  Если убрать границу то пропадает фон на границе с видео, как это исправить?*/
+}
